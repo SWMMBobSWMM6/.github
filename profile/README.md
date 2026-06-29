@@ -1,4 +1,4 @@
-# SWMMBobSWMM6
+# SWMM6 Enablement
 
 Where EPA SWMM goes next. This organization is the research frontier: transient flow, reinforcement learning, model coupling, and the large model corpora needed to test all three.
 
