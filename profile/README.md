@@ -31,7 +31,9 @@ Where EPA SWMM goes next. This organization is the research frontier: transient 
 
 ## About
 
-Maintained by Robert (Bob) Dickinson, Autodesk Water Technologist and co-developer of EPA SWMM versions 3, 4, 5, and 5+. Fifty-plus years of continuous SWMM work, from punch cards at the University of Florida in 1974 to reinforcement learning on the engine today. Chair of the SWMM5+ Technical Advisory Committee at [CIMM.org](http://www.cimm.org) and member of the EWRI Stormwater Modeling Committee.
+Maintained by Robert (Bob) Dickinson.
+
+SWMM since 1977 | SWMM6 & SWMM5 enablement | Chair, SWMM5+ TAC at CIMM | EWRI Stormwater Modeling Committee | InfoWorks ICM, IWP, IFD | SWMM3/4, InfoSWMM, XPSWMM historian | 99+ free SWMM apps
 
 **Contact:** robert.dickinson@gmail.com · X [@RDickinson](https://twitter.com/RDickinson)
 
